@@ -54,7 +54,7 @@ def generate_static_html():
     )
     
     # Write the static HTML file
-    output_file = "index.html"
+    output_file = "./glossary/index.html"
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(complete_html)
     
