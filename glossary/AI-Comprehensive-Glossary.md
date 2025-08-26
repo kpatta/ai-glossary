@@ -18,7 +18,7 @@
 10. [Data Management & Processing](#data-management--processing)
 11. [Training & Optimization](#training--optimization)
 12. [Evaluation & Performance Metrics](#evaluation--performance-metrics)
-13. [LLM-Based Application Evaluation Metrics](#LLM-Based-Application-Evaluation-Metrics)
+13. [LLM-Based Application Evaluation Metrics](#llm-based-application-evaluation-metrics)
 14. [Advanced AI Concepts](#advanced-ai-concepts)
 15. [Specialized AI Applications](#specialized-ai-applications)
 16. [Emerging Technologies & Trends](#emerging-technologies--trends)
